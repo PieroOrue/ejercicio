@@ -1,0 +1,42 @@
+
+	#boton {
+  				color: #ffffff; 						/*color del texto*/
+			 	background: #050505; 					/*color de fondo*/
+  				font-weight: bold;
+ 				font-size: 150%;
+  				text-transform: uppercase;
+  				cursor: pointer; 						/*cursor*/
+  				border: 0px; 							/*borde*/
+  				margin-left: 36%; 
+		   }
+
+	#imgApple {
+					position:fixed; 
+					left:840px; 
+					top:270px;
+					width:400px; 							/* ancho */
+					height:250px; 							/* altura */
+		   }
+
+	#checkbox {
+				/*width:30px;*/
+				/*height:10px;*/
+ 				/*font-size: 150%;*/						/*mover hacia la derecha*/
+  				/*text-transform: uppercase;*/
+  				/*cursor: pointer;*/ 						/*cursor*/
+  				/*margin-left: 2%;*/ 
+		   }
+
+	/*#condicion {
+												/*position:fired es para que te siga;*/
+		   /*}*/
+	#obligatorio {
+
+					
+
+		   }
+
+	#imgFondo {
+				position: center;
+
+		   }
